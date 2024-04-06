@@ -1,0 +1,23 @@
+{
+    "name": "Blood Bank",
+    "description": "get information about the blood",
+    "image": "image url",
+    "attributes": [
+        {
+            "trait_type": "Blood Type",
+            "value": "A+"
+        },
+        {
+            "trait_type": "Blood Type",
+            "value": "B+"
+        },
+        
+            "trait_type": "Blood Type",
+            "value": "AB+"
+        },
+        {
+            "trait_type": "Blood Type",
+            "value": "O+"
+        }
+    ]
+}
